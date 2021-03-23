@@ -1,0 +1,55 @@
+{
+	"dDn_location": {
+	"ie" : "id=location",
+	"chrome": "id=location",
+	"firefox":"id=location",
+	"edge":"id=location"
+	},
+	"dDn_hotel": {
+	"ie" : "id=hotels",
+	"chrome": "id=hotels",
+	"firefox":"id=hotels",
+	"edge":"id=hotels"
+	},"dDn_roomType": {
+	"ie" : "id=room_type",
+	"chrome": "id=room_type",
+	"firefox":"id=room_type",
+	"edge":"id=room_type"
+	},
+	"dDn_roomNos": {
+	"ie" : "id=room_nos",
+	"chrome": "id=room_nos",
+	"firefox":"id=room_nos",
+	"edge":"id=room_nos"
+	},
+	"txt_CheckIn": {
+	"ie" : "id=datepick_in",
+	"chrome": "id=datepick_in",
+	"firefox":"id=datepick_in",
+	"edge":"id=datepick_in"
+	},
+	"txt_CheckOut": {
+	"ie" : "id=datepick_out",
+	"chrome": "id=datepick_out",
+	"firefox":"id=datepick_out",
+	"edge":"id=datepick_out"
+	},
+	"dDn_adultNos": {
+	"ie" : "id=adult_room",
+	"chrome": "id=adult_room",
+	"firefox":"id=adult_room",
+	"edge":"id=adult_room"
+	},
+	"dDn_childNos": {
+	"ie" : "id=child_room",
+	"chrome": "id=child_room",
+	"firefox":"id=child_room",
+	"edge":"id=child_room"
+	},
+	"btn_sumbit": {
+	"ie" : "id=Submit",
+	"chrome": "id=Submit",
+	"firefox":"id=Submit",
+	"edge":"id=Submit"
+	}
+	}

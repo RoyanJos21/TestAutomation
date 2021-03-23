@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="org.testcases.MainRun">
+        <methods>
+          <include name="kill_Browser"/>
+          <include name="getting_order_no"/>
+          <include name="load_Driver"/>
+          <include name="login"/>
+          <include name="booking_Hotel_in_Adactin"/>
+          <include name="select_Hotel_in_Adactin"/>
+          <include name="search_Hotel_in_Adactin"/>
+        </methods>
+      </class> <!-- org.testcases.MainRun -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

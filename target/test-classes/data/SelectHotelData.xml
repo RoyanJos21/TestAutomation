@@ -1,0 +1,14 @@
+<allLocators>
+<rdo_selectHotel>
+	<chrome>id=radiobutton_0</chrome>
+	<ie>id=radiobutton_0</ie>
+	<firefox>id=radiobutton_0</firefox>
+	<edge>id=radiobutton_0</edge>
+</rdo_selectHotel>
+<btn_click>
+	<chrome>id=continue</chrome>
+	<ie>id=continue</ie>
+	<firefox>id=continue</firefox>
+	<edge>id=continue</edge>
+</btn_click>
+</allLocators>

@@ -1,0 +1,20 @@
+{
+	"txt_username": {
+		"ie": "id=username",
+		"chrome": "id=username",
+		"firefox": "id=username",
+		"edge": "id=username"
+	},
+	"txt_lastname": {
+		"ie": "id=password",
+		"chrome": "id=password",
+		"firefox": "id=password",
+		"edge": "id=password"
+	},
+	"btn_login": {
+		"ie": "id=login",
+		"chrome": "id=login",
+		"firefox": "id=login",
+		"edge": "id=login"
+	}
+}

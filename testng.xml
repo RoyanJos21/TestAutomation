@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite1">
+  <test name="Te1">
+ <listeners>
+<listener class-name="com.vsysq.listeners.TestNGEmailableReport2" />
+<listener class-name="com.vsysq.listeners.TestListener" />
+</listeners>
+  <classes>
+  <class name="org.add.Sample"/>
+  </classes>
+  </test>
+  </suite> 
